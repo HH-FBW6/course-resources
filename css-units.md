@@ -1,45 +1,49 @@
 # Units
 
+---
+
 ## Text
 
-Via `font-size` property
+`font-size` property
 
-px
+**px**
 
-example: 23px
+_example:_ `23px`
 
 pixels - the number of on screen pixels used
 
-pt
+**pt**
 
-example: 12pt
+_example:_ `12pt`
 
 points - equivalent to print
 
+---
+
 ## Containers
 
-Via `height`, `width`, `top`, `bottom`, `left`, `right`, etc, properties
+`height`, `width`, `top`, `bottom`, `left`, `right`, etc, properties
 
-px
+**px**
 
-example: 23px
+_example:_ `23px`
 
 pixels - the number of on screen pixels used
 
-%
+**%**
 
-example: 50%
+_example:_ `50%`
 
 a percentage value, taken from parent container
 
-vh
+**vh**
 
-example: 100vh
+_example:_ `100vh`
 
 a percentage value, taken from the viewport height, 100vh = 100% of viewport height
 
-vw
+**vw**
 
-example: 100vw
+_example:_ `100vw`
 
 a percentage value, taken from the viewport width, 100vw = 100% of viewport width
