@@ -7,6 +7,9 @@
 ## Notes
 
 [CSS Units](./css-units.md)
+
 [GIT Commands](./git-commands.md)
+
 [Inline and Block elements](./inline-and-block-elements.md)
+
 [Pseudo classes](./pseudo-classes.md)
