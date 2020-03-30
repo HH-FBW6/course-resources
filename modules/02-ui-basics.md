@@ -118,17 +118,14 @@ Topics which will continue to be referred to throughout the module
 #### Week 5 - Organising and structuring our CSS (continued)
 
 + SCSS / SASS (continued)
-+ CSS libraries
-    - Why?
-    - Bootstrap
-    - Tailwind
++ CSS Grid
 
 #### Week 6 - Holiday
 
 #### Week 7 - Further structuring content
 
 + HTML tables
-+ CSS Grid
++ CSS Frameworks - Bootstrap
 
 #### Week 8 - Effects and interaction / last days
 
