@@ -124,17 +124,17 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 7 - Further structuring content
 
-+ HTML tables
-+ CSS Frameworks - Bootstrap
++ CSS effects & interaction!
+    + Basic effects
+        - CSS `cursor`
+        - CSS `text-shadow`
+        - CSS `box-shadow`
+    + Advanced effects
+        - CSS `transform`
+    - Animation
 
 #### Week 8 - Effects and interaction / last days
 
-+ CSS effects & interaction!
-    - CSS `transform`
-    - CSS `cursor`
-    - CSS `text-shadow`
-    - CSS `box-shadow`
-    - pseudo classes `:hover`, `:focus`
 + Recap
 + Knowledge gaps?
 + Test?
