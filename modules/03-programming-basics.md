@@ -23,18 +23,18 @@ Topics which will continue to be referred to throughout the module
 + Programming building blocks
     + Operators
         + Assignment
-            - =, +=, -=
+            - `=`, `+=`, `-=`
         + Mathematical
             - BODMAS
             - (), /, *, +, -
         + Conditional
-            - >
-            - <
-            - <=
-            - =>
+            - `>`
+            - `<`
+            - `<=`
+            - `=>`
         + Equality
-            - == & ===
-            - != & !==
+            - `==` & `===`
+            - `!=` & `!==`
     + Variables
         + Data types
             + Primitive
@@ -71,9 +71,9 @@ Topics which will continue to be referred to throughout the module
     - while
     
 + String Methods
-    - toUpperCase()
-    - toLowerCase()
-    - trim()
+    - `toUpperCase()`
+    - `toLowerCase()`
+    - `trim()`
 
 + Working with numbers
     - Converting numbers to string and vice versa
@@ -88,8 +88,8 @@ Topics which will continue to be referred to throughout the module
     - Value vs reference
     - Nesting
     + Methods
-        - keys()
-        - values()
+        - `keys()`
+        - `values()`
 
 + Arrays and Array Methods
     + looping through an array
@@ -97,8 +97,8 @@ Topics which will continue to be referred to throughout the module
         - Array.isArray()
         - array instanceof Array
     + Adding and removing items from an array
-        - pop()
-        - push()
+        - `pop()`
+        - `push()`
     + Nesting
         
 + JSON Objects
