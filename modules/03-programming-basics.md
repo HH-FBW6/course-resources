@@ -61,8 +61,6 @@ Topics which will continue to be referred to throughout the module
 #### Week 2 - More conditionals & Strings, Numbers
 
 + More conditions
-    - multiple `if` statments (`else if`)
-    - == vs ===
     - `switch` statements
     - ternarary statements
     
@@ -71,13 +69,25 @@ Topics which will continue to be referred to throughout the module
     - while
     
 + String Methods
-    - `toUpperCase()`
-    - `toLowerCase()`
-    - `trim()`
+    - `String.prototype.toUpperCase()`
+    - `String.prototype.toLowerCase()`
+    - `String.prototype.trim()`
+    - `String.prototype.replace()`
 
-+ Working with numbers
-    - Converting numbers to string and vice versa
-    - NaN
++ Number Methods
+    - `Number.prototype.toString()`
+    - `Number.prototype.toFixed()`
+    - global `parseInt()`
+    - global `parseFloat()`
+    - Meaning of NaN
+    - `Number.isNaN()` vs. global `isNaN()`
+    
++ Math Methods
+    - `Math.ceil()`
+    - `Math.floor()`
+    - `Math.random()`
+    - `Math.max()`
+    - `Math.min()`
 
 #### Week 3 - Arrays & Objects & JSON
 
