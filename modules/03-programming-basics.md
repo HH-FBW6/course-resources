@@ -35,6 +35,10 @@ Topics which will continue to be referred to throughout the module
         + Equality
             - `==` & `===`
             - `!=` & `!==`
+        + Logical
+            - `&&` AND
+            - `||` OR
+            - `!` NOT
     + Variables
         + Data types
             + Primitive
@@ -153,7 +157,9 @@ Topics which will continue to be referred to throughout the module
 
 + The DOM (Document Object Model) (Introduction)
 
-+ Testing our code (Jest) (Introduction)
++ Testing our code
+    - ESlint
+    - (Jest) (Introduction)
 
 
 
