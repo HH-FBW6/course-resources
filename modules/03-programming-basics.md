@@ -25,7 +25,6 @@ Topics which will continue to be referred to throughout the module
         + Assignment
             - `=`, `+=`, `-=`
         + Mathematical
-            - BODMAS
             - (), /, *, +, -
         + Conditional
             - `>`
@@ -55,6 +54,7 @@ Topics which will continue to be referred to throughout the module
             - const (es6)
     + Conditions
         - `if` statements
+        - ternarary statements
     + Writing a function
         - name
         - arguments
@@ -64,13 +64,13 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 2 - More conditionals & Strings, Numbers
 
-+ More conditions
-    - `switch` statements
-    - ternarary statements
++ `switch` statements
     
 + Loops
     - for
     - while
+    
++ Arrays (Introduction)
     
 + String Methods
     - `String.prototype.toUpperCase()`
@@ -84,7 +84,6 @@ Topics which will continue to be referred to throughout the module
     - global `parseInt()`
     - global `parseFloat()`
     - Meaning of NaN
-    - `Number.isNaN()` vs. global `isNaN()`
     
 + Math Methods
     - `Math.ceil()`

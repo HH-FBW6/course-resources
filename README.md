@@ -2,7 +2,8 @@
 
 ## Module overview
 
-[UI Basics](./modules/02-ui-basics.md)
+[02 UI Basics](./modules/02-ui-basics.md)
+[03 Programming Basics](./modules/03-programming-basics.md)
 
 ## Notes
 
