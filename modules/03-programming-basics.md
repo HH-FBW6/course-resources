@@ -94,15 +94,7 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 3 - Arrays & Objects & JSON
 
-+ Working with Objects
-    - Adding properties to an object
-    - Accessing object properties
-    - looping over an object's properties
-    - Value vs reference
-    - Nesting
-    + Methods
-        - `keys()`
-        - `values()`
++ Callbacks
 
 + Arrays and Array Methods
     + looping through an array
@@ -112,9 +104,23 @@ Topics which will continue to be referred to throughout the module
     + Adding and removing items from an array
         - `pop()`
         - `push()`
-    + Nesting
+    + Array methods with callbacks
+        - `forEach()`
+        - `filter()`
+    + Nesting objects in an array
+
++ Working with Objects
+    - Adding properties to an object
+    - Accessing object properties
+    - looping over an object's properties
+    - Value vs reference
+    - Nesting
+    + Methods
+        - `keys()`
+        - `values()`
         
 + JSON Objects
+
 + Builtin Objects
     - Date()
 
