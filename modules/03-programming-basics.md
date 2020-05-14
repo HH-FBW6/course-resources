@@ -110,7 +110,7 @@ Topics which will continue to be referred to throughout the module
     + Nesting objects in an array
 
 + Working with Objects
-    - Adding properties to an object
+    - Adding properties on an object
     - Accessing object properties
     - looping over an object's properties
     - Value vs reference
@@ -127,31 +127,25 @@ Topics which will continue to be referred to throughout the module
 #### Week 4 - Holiday
 
 
-#### Week 5 - Closures, scope, "this" & callbacks, recursions
+#### Week 5 - Programming concepts in JavaScript & ES6
 
-+ Closures
++ Concepts
+    - Scope
+    - Closures
+    - Recursions
 
-+ Recursions
-
-+ Scope and this
++ "this"
     - bind()
-    - call()
-    - apply()
-
-+ Callbacks
-    + Array methods with callbacks
-        - filter()
-        - map()
-        - reduce()
-
-#### Week 6 - Prototypes & Classes
-
-+ Prototypes
-
+    
 + Classes
+    - Constructors
+    - Methods
 
++ More array methods with callbacks
+    - map()
+    - reduce()
 
-#### Week 7 - Looking to the future with ES6, & more advanced concepts
+#### Week 6 - ES6
 
 + Expressing our code in ES6 syntax
     - ES6 Modules
@@ -160,15 +154,10 @@ Topics which will continue to be referred to throughout the module
     - Template strings
     - Default parameters
 
+#### Week 7 - The DOM & Testing our code
+
 + The DOM (Document Object Model) (Introduction)
 
 + Testing our code
     - ESlint
     - (Jest) (Introduction)
-
-
-
-
-        
-
-        
