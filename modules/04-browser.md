@@ -28,17 +28,17 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 4 - Bubbling concept
 
-#### Week 5 - Modules
-
-- Imports and Exports
-
-#### Week 7 - 
+#### Week 5 - 
 
 - Hoisting
 - Closure
 - Recursion
 
-#### Week 6 -
+#### Week 6 - Modules
+
+- Imports and Exports
+
+#### Week 7 -
 
 - Promises
 - JSON parsing
