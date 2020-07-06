@@ -28,25 +28,38 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 4 - Bubbling concept
 
-#### Week 5 - 
+#### Week 5 - Web Storage API / ES6 Modules
 
-- Hoisting
-- Closure
-- Recursion
++ Web Storage API
+  - localStorage
+  - sessionStorage
+ 
++ JSON stringify
++ JSON parse
+  
++ ES6 Modules
+  - imports
+  - exports
+  - named
+  - default
 
-#### Week 6 - Modules
+#### Week 6
 
-- Imports and Exports
++ Promises
 
-#### Week 7 -
++ Fetch
 
-- Promises
-- JSON parsing
-- Fetch
-- async functions
-- await keyword
++ Concepts
+  - Hoisting
+  - Closure
+  - Recursion
+
+#### Week 7
+
++ async functions
++ await keyword
 
 #### Week 8 -
 
-Transpiling & Bundling
--  3rd Party Dependencies
++ Transpiling & Bundling
++ 3rd Party Dependencies
