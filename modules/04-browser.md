@@ -58,8 +58,3 @@ Topics which will continue to be referred to throughout the module
 
 + async functions
 + await keyword
-
-#### Week 8 -
-
-+ Transpiling & Bundling
-+ 3rd Party Dependencies
