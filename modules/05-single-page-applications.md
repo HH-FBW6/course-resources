@@ -1,4 +1,4 @@
-# Programming Basics
+# Single Page Applications
 
 FBW6 Module overview
 
@@ -9,6 +9,8 @@ Topics which will continue to be referred to throughout the module
 - Working with GIT
 - Working with NPM
 - Create React App
+- React Dev Tools
+- 
 
 ## Module overview
 
@@ -47,6 +49,7 @@ Topics which will continue to be referred to throughout the module
 
 + Build a project together
 + React Routing (workshop)
++ Testing our code (Jasmin)
 
 #### Week 5 - React Context API
 
