@@ -147,6 +147,8 @@ Topics which will continue to be referred to throughout the module
 
 #### Week 6 - ES6
 
++ The DOM (Document Object Model) (Introduction)
+
 + Expressing our code in ES6 syntax
     - ES6 Modules
     - Arrow functions
@@ -155,8 +157,6 @@ Topics which will continue to be referred to throughout the module
     - Default parameters
 
 #### Week 7 - The DOM & Testing our code
-
-+ The DOM (Document Object Model) (Introduction)
 
 + Testing our code
     - ESlint
