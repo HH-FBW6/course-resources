@@ -10,7 +10,7 @@ Topics which will continue to be referred to throughout the module
 - Working with NPM
 - Create React App
 - React Dev Tools
-- 
+- Testing
 
 ## Module overview
 
