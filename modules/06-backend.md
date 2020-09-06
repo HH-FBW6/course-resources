@@ -21,6 +21,10 @@ Topics which will continue to be referred to throughout the module
     - Importing modules
         + Default exports
         + Named exports
+     - path
+     - file-system
+     - streams
+     - getting-data
 
 #### Week 2 - 4 - ExpressJS
 
@@ -29,7 +33,13 @@ Topics which will continue to be referred to throughout the module
     - Middleware
     - Template Engines
     - RESTful APIs
-
+  
++ Serving Static Html
++ Express js boilerplate 
++ Request Object
++ Error Handling
++ Cors
++ Json web token
 + Debugging
 
 #### Week 5 - 7 - Database
