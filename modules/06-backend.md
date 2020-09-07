@@ -37,9 +37,12 @@ Topics which will continue to be referred to throughout the module
 + Serving Static Html
 + Express js boilerplate 
 + Request Object
++ Server Side Validation
 + Error Handling
 + Cors
 + Json web token
++ Passport and Strategies
++ Bcrypt
 + Debugging
 
 #### Week 5 - 7 - Database
