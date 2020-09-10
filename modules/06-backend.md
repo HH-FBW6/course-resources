@@ -25,6 +25,7 @@ Topics which will continue to be referred to throughout the module
      - file-system
      - streams
      - getting-data
++ NPM Publish (workshop)
 
 #### Week 2 - 4 - ExpressJS
 
