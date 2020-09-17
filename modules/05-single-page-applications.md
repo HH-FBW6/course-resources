@@ -58,7 +58,6 @@ Topics which will continue to be referred to throughout the module
 + Context API
     - React.createContext
     - Context.Provider
-    - Class.contextType
     - Context.Consumer
     - Context.displayName
 
