@@ -53,11 +53,11 @@ Topics which will continue to be referred to throughout the module
 
 + jwt recap 
 + getting the data to the logged in user (dashborad) with jwt
-+ nodmailer for resetpass, activate user ( react + expressjs ) 
++ nodemailer for resetpass, activate user (react + expressjs) 
 
 + jwt practicing 
 + how to protect root in react / how to hide login register links
-+ practice crud for the backend with mongoose ? / search functionality 
++ practice crud for the backend with mongoose / search functionality 
 
 + getting the Data from auther collection of the loggedIn (refs) / conection between to collection (ref)
 + Roles And Permissions.
